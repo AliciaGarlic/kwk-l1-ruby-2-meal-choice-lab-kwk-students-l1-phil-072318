@@ -22,4 +22,7 @@ puts snacks
 
 
 def breakfast(food = "Frosted Flakes")
-  puts 
+  puts "Morning is the best time for #{food}"
+end
+
+say breakfast
