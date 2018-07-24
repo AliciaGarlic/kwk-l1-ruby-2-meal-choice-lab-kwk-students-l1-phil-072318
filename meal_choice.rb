@@ -60,3 +60,11 @@ def dinner(food = "salmon")
 end
 
 puts dinner
+
+def dinner(food = "salmon")
+  
+  puts "Dinner is the best time for #{food}!"
+  
+end
+
+puts dinner("pizza")
