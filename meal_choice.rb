@@ -35,7 +35,7 @@ def breakfast(food = "Frosted Flakes")
   
 end
 
-breakfast("eggs")
+breakfast("pancakes")
 
 def lunch(food = "grilled cheese")
   
