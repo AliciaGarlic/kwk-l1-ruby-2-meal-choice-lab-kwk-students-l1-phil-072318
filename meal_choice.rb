@@ -25,4 +25,4 @@ def breakfast(food = "Frosted Flakes")
   puts "Morning is the best time for #{food}!"
 end
 
-say_breakfast
+say breakfast
