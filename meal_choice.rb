@@ -29,7 +29,7 @@ end
 
 puts breakfast
 
-def lunch(food = "Grilled Cheese")
+def lunch(food = "grilled cheese")
   
   puts "Noon is the best time for #{food}!"
   
