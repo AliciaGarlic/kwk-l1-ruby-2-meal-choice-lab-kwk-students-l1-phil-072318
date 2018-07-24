@@ -35,7 +35,7 @@ def breakfast(food = "Frosted Flakes")
   
 end
 
-puts breakfast(eggs)
+puts breakfast("eggs")
 
 def lunch(food = "grilled cheese")
   
@@ -44,6 +44,14 @@ def lunch(food = "grilled cheese")
 end
 
 puts lunch
+
+def lunch(food = "grilled cheese")
+  
+  puts "Noon is the best time for #{food}!"
+  
+end
+
+puts lunch("soup")
 
 def dinner(food = "salmon")
   
