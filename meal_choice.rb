@@ -43,7 +43,7 @@ def lunch(food = "grilled cheese")
   
 end
 
-lunch
+lunch("")
 
 def lunch(food = "grilled cheese")
   
