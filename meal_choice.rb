@@ -21,4 +21,5 @@ puts snacks
 
 
 
-def breakfast(food = "")
+def breakfast(food = "Frosted Flakes")
+  puts 
