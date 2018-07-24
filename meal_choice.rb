@@ -31,4 +31,7 @@ say breakfast
 
 def lunch(food = "Grilled Cheese")
   
-  puts "Noon is the best time for"
+  puts "Noon is the best time for #{food}!"
+  
+end
+say lunch
