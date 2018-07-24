@@ -27,7 +27,7 @@ def breakfast(food = "Frosted Flakes")
   
 end
 
-say breakfast
+puts breakfast
 
 def lunch(food = "Grilled Cheese")
   
@@ -35,4 +35,4 @@ def lunch(food = "Grilled Cheese")
   
 end
 
-say lunch
+puts lunch
