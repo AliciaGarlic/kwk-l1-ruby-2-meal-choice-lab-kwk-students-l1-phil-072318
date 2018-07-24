@@ -27,7 +27,7 @@ def breakfast(food = "Frosted Flakes")
   
 end
 
-puts breakfast
+breakfast
 
 def breakfast(food = "Frosted Flakes")
   
@@ -35,7 +35,7 @@ def breakfast(food = "Frosted Flakes")
   
 end
 
-puts breakfast("eggs")
+breakfast("eggs")
 
 def lunch(food = "grilled cheese")
   
@@ -43,7 +43,7 @@ def lunch(food = "grilled cheese")
   
 end
 
-puts lunch
+lunch
 
 def lunch(food = "grilled cheese")
   
@@ -51,7 +51,7 @@ def lunch(food = "grilled cheese")
   
 end
 
-puts lunch("soup")
+lunch("peanut butter")
 
 def dinner(food = "salmon")
   
@@ -59,7 +59,7 @@ def dinner(food = "salmon")
   
 end
 
-puts dinner
+dinner
 
 def dinner(food = "salmon")
   
@@ -67,4 +67,4 @@ def dinner(food = "salmon")
   
 end
 
-puts dinner("pizza")
+dinner("broccoli")
